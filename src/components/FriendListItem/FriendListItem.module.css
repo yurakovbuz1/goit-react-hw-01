@@ -1,0 +1,19 @@
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.friendsItem {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
