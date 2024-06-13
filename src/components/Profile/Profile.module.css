@@ -26,6 +26,7 @@
 }
 
 .stats {
+  color: black;
   background-color: rgb(208, 208, 208);
   border-top: 2px solid grey;
   list-style: none;
